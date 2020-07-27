@@ -250,7 +250,7 @@
         },
         {
           id: 37,
-          name: 'Men\'s Mesh Running Sports',
+          name: 'Men\'s Sports Shoes',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71a6zCNftVL._UL1500_.jpg',
           price: 499
         },
@@ -258,6 +258,18 @@
           id: 38,
           name: 'Gym Kit',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81uBR2xCzzL._SL1500_.jpg',
+          price: 789
+        },
+        {
+          id: 39,
+          name: 'SYNPLAY Hand-Stitched Volley Ball',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/91zAi%2Bt0lWL._SL1500_.jpg',
+          price: 789
+        },
+        {
+          id: 40,
+          name: 'Women\'s Sports Shoes',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81JOitnkgtL._UL1500_.jpg',
           price: 789
         }
       ]
