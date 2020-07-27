@@ -264,13 +264,13 @@
           id: 39,
           name: 'SYNPLAY Hand-Stitched Volley Ball',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/91zAi%2Bt0lWL._SL1500_.jpg',
-          price: 789
+          price: 399
         },
         {
           id: 40,
           name: 'Women\'s Sports Shoes',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81JOitnkgtL._UL1500_.jpg',
-          price: 789
+          price: 499
         }
       ]
     }
