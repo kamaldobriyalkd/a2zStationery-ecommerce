@@ -232,14 +232,20 @@
         },
         {
           id: 34,
-          name: 'Jean Long Sleeve',
-          imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
-          price: 40
+          name: 'Chess Classic',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61sk%2BBZPH3L._SL1000_.jpg',
+          price: 349
         },
         {
           id: 35,
-          name: 'Burgundy T-shirt',
-          imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+          name: 'Sports 6 Inch Cone Set',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41aFNxEC3cL.jpg',
+          price: 25
+        },
+        {
+          id: 36,
+          name: 'Basketball (size 3)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51z75bVWnfL.jpg',
           price: 25
         }
       ]
