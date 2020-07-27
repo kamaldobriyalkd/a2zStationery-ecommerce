@@ -240,13 +240,25 @@
           id: 35,
           name: 'Sports 6 Inch Cone Set',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41aFNxEC3cL.jpg',
-          price: 25
+          price: 449
         },
         {
           id: 36,
           name: 'Basketball (size 3)',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51z75bVWnfL.jpg',
-          price: 25
+          price: 299
+        },
+        {
+          id: 37,
+          name: 'Men\'s Mesh Running Sports',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71a6zCNftVL._UL1500_.jpg',
+          price: 499
+        },
+        {
+          id: 38,
+          name: 'Gym Kit',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81uBR2xCzzL._SL1500_.jpg',
+          price: 789
         }
       ]
     }
