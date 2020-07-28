@@ -183,21 +183,33 @@
         },
         {
           id: 27,
-          name: 'Striped Sweater',
-          imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
-          price: 45
+          name: 'Sticky Note Pad',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61ziZ9IFGmL._SL1500_.jpg',
+          price: 99
         },
         {
           id: 28,
-          name: 'Yellow Track Suit',
-          imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
+          name: 'A4 (50 plain sheets each)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71DoNrlMlkL._SL1500_.jpg',
           price: 135
         },
         {
           id: 29,
-          name: 'White Blouse',
-          imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
-          price: 20
+          name: 'A4 Coloured (60 sheets)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41NLXXhDW3L.jpg',
+          price: 99
+        },
+        {
+          id: 30,
+          name: 'Ring Binder File (A4 size)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/816J4vi7dsL._SL1500_.jpg',
+          price: 449
+        },
+        {
+          id: 31,
+          name: 'Register Single Line (175 pages)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/816J4vi7dsL._SL1500_.jpg',
+          price: 75
         }
       ]
     },
