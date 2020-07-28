@@ -262,24 +262,30 @@
         },
         {
           id: 39,
-          name: 'SYNPLAY Hand-Stitched Volley Ball',
+          name: 'Wooden Carrom Board',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/91O4sDkvaTL._SL1500_.jpg',
+          price: 789
+        },
+        {
+          id: 40,
+          name: 'Hand-Stitched Volley Ball',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/91zAi%2Bt0lWL._SL1500_.jpg',
           price: 399
         },
         {
-          id: 40,
+          id: 41,
           name: 'Women\'s Sports Shoes',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81JOitnkgtL._UL1500_.jpg',
           price: 499
         },
         {
-          id: 41,
+          id: 42,
           name: 'Arm Sleeves',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/717rP119kuL._SL1500_.jpg',
           price: 275
         },
         {
-          id: 42,
+          id: 43,
           name: 'Sports Sunscreen (100 gms)',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51cadlXFG2L._SL1100_.jpg',
           price: 599
