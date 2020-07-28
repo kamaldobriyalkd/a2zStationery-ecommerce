@@ -279,15 +279,27 @@
           price: 499
         },
         {
-          id: 42,
+          id: 43,
+          name: 'Uno Playing Card Game',
+          imageUrl: 'https://www.amazon.in/images/I/818HqphYAaL._SL1500_.jpg',
+          price: 129
+        },
+        {
+          id: 44,
           name: 'Arm Sleeves',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/717rP119kuL._SL1500_.jpg',
           price: 275
         },
         {
-          id: 43,
+          id: 45,
           name: 'Sports Sunscreen (100 gms)',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51cadlXFG2L._SL1100_.jpg',
+          price: 599
+        },
+        {
+          id: 46,
+          name: 'Wooden Domino Blocks',
+          imageUrl: 'https://www.amazon.in/images/I/616Wu34vEhL._SL1050_.jpg',
           price: 599
         }
       ]
