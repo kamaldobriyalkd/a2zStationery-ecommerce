@@ -271,6 +271,18 @@
           name: 'Women\'s Sports Shoes',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81JOitnkgtL._UL1500_.jpg',
           price: 499
+        },
+        {
+          id: 41,
+          name: 'Arm Sleeves',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/717rP119kuL._SL1500_.jpg',
+          price: 275
+        },
+        {
+          id: 42,
+          name: 'Sports Sunscreen (100 gms)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51cadlXFG2L._SL1100_.jpg',
+          price: 599
         }
       ]
     }
