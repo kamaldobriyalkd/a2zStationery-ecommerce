@@ -208,7 +208,7 @@
         {
           id: 31,
           name: 'Register Single Line (175 pages)',
-          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/816J4vi7dsL._SL1500_.jpg',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71ZkCbMRoyL._SL1064_.jpg',
           price: 75
         }
       ]
