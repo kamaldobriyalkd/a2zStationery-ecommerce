@@ -174,6 +174,12 @@
           name: 'Spiral Notebook',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41y1MbjWnyL._SX466_.jpg',
           price: 25
+        },        
+        {
+          id: 35,
+          name: 'Cartridge Ink (4 colors)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81nBPYmUy7L._SL1500_.jpg',
+          price: 25
         },
         {
           id: 26,
@@ -189,14 +195,14 @@
         },
         {
           id: 28,
-          name: 'A4 (50 plain sheets each)',
-          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71DoNrlMlkL._SL1500_.jpg',
-          price: 135
+          name: 'Synthetic Notebook Cover (8m)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/315%2B5x6YIBL.jpg',
+          price: 149
         },
         {
           id: 29,
           name: 'A4 Coloured (60 sheets)',
-          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41NLXXhDW3L.jpg',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/819nqSE2ltL._SL1500_.jpg',
           price: 99
         },
         {
@@ -210,6 +216,42 @@
           name: 'Register Single Line (175 pages)',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71ZkCbMRoyL._SL1064_.jpg',
           price: 75
+        },
+        {
+          id: 32,
+          name: 'Attendance Register',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/817XJIZs4bL._SL1500_.jpg',
+          price: 125
+        },
+        {
+          id: 33,
+          name: 'Spring Office File',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71dFrRcIy4L._SL1024_.jpg',
+          price: 25
+        },
+        {
+          id: 38,
+          name: 'A4 Colorful Sheets (60 Sheets)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61NkjN%2B%2BNsL._SL1500_.jpg',
+          price: 99
+        },
+        {
+          id: 34,
+          name: 'ToDo List Note Pad',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41pzmJLFTiL.jpg',
+          price: 99
+        },
+        {
+          id: 36,
+          name: 'A4, 500 Sheets, 70 GSM',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81wJ%2BF7qehL._SL1500_.jpg',
+          price: 199
+        },
+        {
+          id: 37,
+          name: 'A4 One Side Ruled (60 sheets)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81ceo0ePc8L._SL1500_.jpg',
+          price: 99
         }
       ]
     },
