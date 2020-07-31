@@ -15,7 +15,10 @@ import {selectCurrentUser} from '../../redux/user/user-selectors';
 
 import {connect} from 'react-redux';
 
-import './header.scss';
+
+
+import {HeaderContainer, LogoContainer, OptionsContainer, OptionLink} from './header-styles';
+
 class Header extends React.Component{
 
        func = () => {
@@ -32,34 +35,34 @@ class Header extends React.Component{
 
     render(){
         return(
-        <div className='header'>
+        <HeaderContainer>
             <Link to='/'>
-                <img src={logo} className='logo-container' alt="logo"/>
+                <LogoContainer src={logo} alt="logo"/>
             </Link>
-            <div className='options'>
-                <Link className='option' to='/shop'>SHOP</Link>
-                <Link className='option' to='/contact'>CONTACT US</Link>
+            <OptionsContainer>
+                <OptionLink to='/shop'>SHOP</OptionLink>
+                <OptionLink to='/contact'>CONTACT US</OptionLink>
                 
                 {   this.props.currentUser ?
-                    <div className='option' >{this.func()}</div>
+                    <OptionLink as='div' >{this.func()}</OptionLink>
                     :
                     null
                 }
                 {
                     this.props.currentUser ?
-                    <div className='option' onClick={()=> auth.signOut()}>SIGN OUT</div>
+                    <OptionLink as='div' onClick={()=> auth.signOut()}>SIGN OUT</OptionLink>
                     :
-                    <Link className='option' to='/signin'>SIGN IN</Link>
+                    <OptionLink to='/signin'>SIGN IN</OptionLink>
                 }
                 <CartIcon/>
-            </div>
+            </OptionsContainer>
                 {
                 this.props.cart ?
                 null
                 : 
                 <CartDropdown/>
                 }
-        </div>
+        </HeaderContainer>
         );
     }
 }  

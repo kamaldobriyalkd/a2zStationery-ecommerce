@@ -30,33 +30,76 @@
         },
         {
           id: 5,
-          name: 'Green Beanie',
-          imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
-          price: 18
+          name: 'Pen Stand Black',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81u8JzswhxL._SL1500_.jpg',
+          price: 299
         },
         {
           id: 6,
-          name: 'Palm Tree Cap',
-          imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
-          price: 14
+          name: 'Octane Gel Pen (Blue x5)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61WQ1MxmOWL._SL1100_.jpg',
+          price: 49
         },
         {
           id: 7,
-          name: 'Red Beanie',
-          imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
-          price: 18
+          name: 'Parker Pen + Keychain (Blue Ink)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81%2BKP33%2BJBL._SL1500_.jpg',
+          price: 299
         },
         {
           id: 8,
-          name: 'Wolf Cap',
-          imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
-          price: 14
+          name: 'Casio DJ-120D Plus',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61DtKI7fOpL._SL1000_.jpg',
+          price: 599
         },
         {
           id: 9,
-          name: 'Blue Snapback',
-          imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-          price: 16
+          name: 'Maped 9pcs Geometry Set',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71Y1RKpS7ML._SL1500_.jpg',
+          price: 199
+        },
+        {
+          id: 47,
+          name: 'Apsara Scholars Kit',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71vDWWaDTzL._SL1415_.jpg',
+          price: 99
+        }
+        ,
+        {
+          id: 48,
+          name: 'All Purpose Scissor',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51LmTIRDTnL._SL1100_.jpg',
+          price: 149
+        },
+        {
+          id: 49,
+          name: 'Chemistry Lab Kit',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61EriaN9cGL._SL1147_.jpg',
+          price: 449
+        },
+        {
+          id: 50,
+          name: 'Cutter Knife (10 extra blades)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71z1Ibm%2B9mL._SL1500_.jpg',
+          price: 99
+        },
+        {
+          id: 51,
+          name: 'Optical Lab Set',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41u2orx%2B5ZL.jpg',
+          price: 349
+        },
+        {
+          id: 52,
+          name: 'Gyroscope',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61idnNsxyPL._SL1000_.jpg',
+          price: 1299
+        },
+        {
+          id: 53,
+          name: 'Magnet Set',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51xvTgLNsSL.jpg',
+          price: 349
         }
       ]
     },
