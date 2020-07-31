@@ -42,9 +42,9 @@
         },
         {
           id: 7,
-          name: 'Parker Pen + Keychain (Blue Ink)',
-          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81%2BKP33%2BJBL._SL1500_.jpg',
-          price: 299
+          name: 'Apsara Sharpeners (x20)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61QGwbw5UHL._SL1000_.jpg',
+          price: 99
         },
         {
           id: 8,
@@ -60,8 +60,8 @@
         },
         {
           id: 47,
-          name: 'Apsara Scholars Kit',
-          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71vDWWaDTzL._SL1415_.jpg',
+          name: 'Punching Machine',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51BbcltthiL._SL1000_.jpg',
           price: 99
         }
         ,
@@ -73,33 +73,33 @@
         },
         {
           id: 49,
-          name: 'Chemistry Lab Kit',
-          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61EriaN9cGL._SL1147_.jpg',
+          name: 'Stapler (1 pkt pin-10)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41o8TSL%2BRpL._SL1000_.jpg',
           price: 449
         },
         {
           id: 50,
-          name: 'Cutter Knife (10 extra blades)',
-          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71z1Ibm%2B9mL._SL1500_.jpg',
+          name: 'Stapler Pin (5 pkt pin-10)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41t%2BG1dTIjL.jpg',
           price: 99
         },
         {
           id: 51,
-          name: 'Optical Lab Set',
+          name: 'Cutter Knife (10 extra blades)',
           imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41u2orx%2B5ZL.jpg',
           price: 349
         },
         {
           id: 52,
-          name: 'Gyroscope',
-          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61idnNsxyPL._SL1000_.jpg',
-          price: 1299
+          name: 'Apsara Erasers (x20)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81UC2m3nz9L._SL1500_.jpg',
+          price: 99
         },
         {
           id: 53,
-          name: 'Magnet Set',
-          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51xvTgLNsSL.jpg',
-          price: 349
+          name: 'Finger and Thumb Print Ink Pad',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41pdBepZPTL.jpg',
+          price: 149
         }
       ]
     },
@@ -134,27 +134,51 @@
         },
         {
           id: 14,
-          name: 'Nike Red High Tops',
-          imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
-          price: 160
+          name: 'Soldering Kit',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/618-oZcfDUL._SL1200_.jpg',
+          price: 249
         },
         {
           id: 15,
-          name: 'Nike Brown High Tops',
-          imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+          name: ' 5 Pc Mini 2 Pin on/OFF Switch',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61RXv36GRqL._SL1500_.jpg',
           price: 160
         },
         {
           id: 16,
-          name: 'Air Jordan Limited',
-          imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
-          price: 190
+          name: '9V Battery Clip Connector (x10)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/417MMGLDnjL.jpg',
+          price: 49
         },
         {
           id: 17,
-          name: 'Timberlands',
-          imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
-          price: 200
+          name: '3AA ALKALINE Battery Holders (x1)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71K3-mONXUL._SL1500_.jpg',
+          price: 59
+        },
+        {
+          id: 54,
+          name: 'Duracell Rechargeable (x4)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51OxgMCPDvL.jpg',
+          price: 59
+        },
+        {
+          id: 55,
+          name: 'Wire for Science Projects (10 m red and 10 m black)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/415p1-zk0KL.jpg',
+          price: 99
+        },
+        {
+          id: 56,
+          name: 'LED Strip Customizable Strip with 180 LEDs/m',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61L1MYiJ6bL._SL1000_.jpg',
+          price: 1999
+        },
+        {
+          id: 57,
+          name: '20 Meters of Bare Copper Wire',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/31Kxma49woL.jpg',
+          price: 199
         }
       ]
     },
