@@ -201,9 +201,9 @@
         },
         {
           id: 20,
-          name: 'Fevicryl Arcylic Colours (6 shades)',
-          imageUrl: 'https://www.stationeryhut.in/image/cache/data/fevicryl-acrylic-colours-lilac-kit-6-shades--282-packs-29-500x500.jpg',
-          price: 89
+          name: 'Hot Glue Gun + 10 Glue Sticks',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/41V4I8nYPoL.jpg',
+          price: 399
         },
         {
           id: 21,
@@ -213,9 +213,74 @@
         },
         {
           id: 22,
-          name: 'Tan Trench',
-          imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
-          price: 185
+          name: 'Drawing Book -40 Pages',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/51smmwJYNmL.jpg',
+          price: 149
+        },
+        {
+          id: 58,
+          name: 'Oil Pastels - 50 Shades',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71ZRZGIcAVL._SL1500_.jpg',
+          price: 199
+        },
+        {
+          id: 59,
+          name: 'Hi-lighter Pens',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81a8toUFnNL._SL1500_.jpg',
+          price: 99        },
+        {
+          id: 59,
+          name: 'Fevicol Glue 100ml Bottle',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61x5wkeEygL._SL1500_.jpg',
+          price: 49
+        },
+        {
+          id: 59,
+          name: 'Fevicryl Arcylic Colours (6 shades)',
+          imageUrl: 'https://www.stationeryhut.in/image/cache/data/fevicryl-acrylic-colours-lilac-kit-6-shades--282-packs-29-500x500.jpg',
+          price: 99
+        },
+        {
+          id: 59,
+          name: 'Assorted color (Pack of 10 Pen)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/711ey89FeIL._SL1280_.jpg',
+          price: 149
+        },
+        {
+          id: 59,
+          name: 'Double Side Tape (5m, 2" wide) ',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/31moO1Rn9UL.jpg',
+          price: 99
+        },
+        {
+          id: 59,
+          name: 'Ice Cream Sticks(x100)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61PrnCox8OL._SL1001_.jpg',
+          price: 99
+        },
+        {
+          id: 59,
+          name: 'Fevistik Super Glue Stick (22gms)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61sO1LnHtgL._SL1500_.jpg',
+          price: 249
+        },
+        {
+          id: 59,
+          name: 'Ziggle Decoration DIY kit',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/81hMvAzYAsL._SL1222_.jpg',
+          price: 299
+        },
+        {
+          id: 59,
+          name: 'Connector Pen Set',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/819GXvl-GbL._SL1500_.jpg',
+          price: 255
+        },
+        {
+          id: 59,
+          name: 'Cello Tape (2" Wide 100m)',
+          imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/31JO6oXkgyL.jpg',
+          price: 175
         }
       ]
     },
