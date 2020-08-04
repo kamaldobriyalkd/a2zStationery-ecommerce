@@ -19,8 +19,12 @@ class SearchBar extends React.Component{
     return(
 
         <div className='search-bar'>
-            <input type='search'  onChange={e => this.setState({searchInput: e.target.value})} placeholder='search for items'/>
+            <input type='search'  onChange={e => this.setState({searchInput: e.target.value})} onKeyDown={e => e.keyCode === 13 ? this.props.history.push(`/search/${this.state.searchInput}`) : null} placeholder='search for items'/>
+            {
+                this.state.searchInput ?
             <button type="submit" onClick ={() =>{this.props.history.push(`/search/${this.state.searchInput}`); this.props.searchString(this.state.searchInput);}}><i className="fa fa-search"></i></button>
+                : null
+            }
         </div>
     );
     }

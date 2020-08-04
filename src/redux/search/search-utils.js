@@ -5,6 +5,8 @@ const seacrhArray = [];
    const items = collections.map(collection => collection.items);
    const searchItemsArrays= items.map(item => item.filter(items => items.name.toLowerCase().includes(string.toLowerCase())));
    searchItemsArrays.map(searchItemsArray => searchItemsArray.map(searchItem=> seacrhArray.push(searchItem)));
-   console.log(seacrhArray);
+   if (seacrhArray.length !== 0){
    return seacrhArray;}
+   else return null;
+}
 }
