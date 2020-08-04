@@ -4,6 +4,7 @@ import logo from './logo1.jpg';
 
 import CartIcon from '../cart-icon/cart-icon';
 import CartDropdown from '../cart-dropdown/cart-dropdown';
+import SearchBar from '../search-bar/search-bar';
 
 import {Link} from 'react-router-dom';
 
@@ -40,6 +41,7 @@ class Header extends React.Component{
                 <LogoContainer src={logo} alt="logo"/>
             </Link>
             <OptionsContainer>
+                <SearchBar/>
                 <OptionLink to='/shop'>SHOP</OptionLink>
                 <OptionLink to='/contact'>CONTACT US</OptionLink>
                 

@@ -1,0 +1,20 @@
+.search-bar input[type=search] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: 1px lightgrey solid;
+}
+
+.search-bar button {
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+
+    &:hover {
+        background: #ccc;
+      }
+}
