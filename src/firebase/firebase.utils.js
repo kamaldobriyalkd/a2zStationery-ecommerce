@@ -13,11 +13,13 @@ const config = {
     measurementId: "G-31PM0B9J8W"
   };
 
+  firebase.initializeApp(config);
+
 export const createUserProfileDocument = async (userAuth, additionalData) => {
   if(!userAuth) return;
   
   const userRef  = firestore.doc(`users/${userAuth.uid}`);
-  const snapShot = await userRef.get();
+  const snapShot = await userRef.get(); 
 
   if(!snapShot.exists){
     const {displayName, email} = userAuth;
@@ -37,7 +39,18 @@ export const createUserProfileDocument = async (userAuth, additionalData) => {
   return userRef;
 };
   
-firebase.initializeApp(config);
+// export const addCollectionAndDocuments = async (collectionKey, collectionData) => {
+//   const collectionRef = firestore.collection(collectionKey);
+
+//   const batch = firestore.batch();
+
+//   collectionData.forEach(obj => {
+//     newDocRef = collectionRef.doc();
+//     batch.set(newDocRef, obj);    
+//   });
+
+//   return await batch.commit();
+// }
 
 export const auth      = firebase.auth();
 export const firestore = firebase.firestore();
