@@ -19,27 +19,27 @@ const INITIAL_STATE ={
             title:'E - COMPONENTS',
             img: img2,
             id:2,
-            linkUrl: 'shop/eComponents'
+            linkUrl: 'shop/e%20-%20components'
         },
         {
             title:'ART & CRAFT',
             img: img3,
             id:3,
-            linkUrl: 'shop/artAndCraft'
+            linkUrl: 'shop/art%20&%20craft'
         },
         {
             title:'WRITING MATERIALS',
             img: img4,
             size: 'large',
             id:4,
-            linkUrl: 'shop/writingMaterial'
+            linkUrl: 'shop/writing%20material'
         },
         {
             title:'SPORTY & GAMES',
             img: img5,
             size: 'large',
             id:5,
-            linkUrl: 'shop/sportyAndGames'
+            linkUrl: 'shop/sporty%20&%20games'
         }
     ]
 };

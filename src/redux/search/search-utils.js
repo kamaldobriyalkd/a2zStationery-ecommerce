@@ -1,5 +1,5 @@
-import shopData from '../../pages/shop/shop-data';
-export const SearchFunc = (string) => {if(string){
+//import shopData from '../../pages/shop/shop-data';
+export const SearchFunc = (string, shopData) => {if(string){
 const seacrhArray = [];
    const collections = Object.keys(shopData).map(key => shopData[key]);
    const items = collections.map(collection => collection.items);

@@ -103,7 +103,7 @@
         }
       ]
     },
-    eComponents:{
+    "e - components":{
       id: 2,
       title: 'E - Components',
       routeName: 'ecomponents',
@@ -182,7 +182,7 @@
         }
       ]
     },
-    artAndCraft:{
+    "art & craft":{
       id: 3,
       title: 'Art & Craft',
       routeName: 'art&craft',
@@ -284,7 +284,7 @@
         }
       ]
     },
-    writingMaterial:{
+    "writing material":{
       id: 4,
       title: 'Writing Material',
       routeName: 'writingmaterial',
@@ -387,7 +387,7 @@
         }
       ]
     },
-    sportyAndGames:{
+    "sporty & games":{
       id: 5,
       title: 'Sporty & Games',
       routeName: 'sporty&games',
