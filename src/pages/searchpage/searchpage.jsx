@@ -11,7 +11,7 @@ const SearchPage = ({items, match}) =>
 
     <div className='search-page'>
         {
-            items.length !== 0 ?
+            items && items.length !== 0 ?
             <div className='title-1'>You searched for "{match.params.searchInput}"</div>
             : <div className='title-2'>What are you searching for?</div>
         }
